@@ -175,7 +175,7 @@ const LandingPage = () => {
   const fifthRow = [13, 14, 15];
 
   return (
-    <ContainerScroll titleComponent={""}>
+    <ContainerScroll titleComponent={" "}>
       <main>
         <section>
           <div className="relative mb-12">
